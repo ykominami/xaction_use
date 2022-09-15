@@ -7,5 +7,5 @@ jobs:
     name: Hello
     steps:
       - name: Hello
-        uses: ykominami/xaction_use@v1.0.0
+        uses: ykominami/xaction@v1.0.0
 
